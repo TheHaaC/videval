@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 系统
+.DS_Store
+
+# 评测产物与素材（体积大 / 可能涉密，不入库）
+outputs/
+ai视频素材/
+latex/
+.workbuddy/

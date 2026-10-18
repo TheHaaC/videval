@@ -1,0 +1,11 @@
+numpy>=1.24
+pandas>=2.0
+opencv-python-headless>=4.8
+scipy>=1.10
+pillow>=10.0
+scikit-learn>=1.3
+
+# 可选：语义层人脸一致性（ArcFace）
+# 若不需要 `face` 命令，可跳过下面两行
+insightface>=0.7
+onnxruntime>=1.16
